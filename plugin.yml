@@ -1,0 +1,6 @@
+name: FloatingTextParticle
+author: GamerXzavier & HyGlobalHD
+main: FloatingTextParticle\Main
+load: STARTUP
+version: "0.1#Beta"
+api: "2.0.0"

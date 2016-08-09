@@ -109,7 +109,7 @@ class Main extends PluginBase implements Listener{
 
        $player = $event->getPlayer();
 
-       $level->addParticle(new FloatingTextParticle(new Vector3(128.55, 20.55, 139.55),"", "§aWelcome Beginner!"));
+       $level->addParticle(new FloatingTextParticle(new Vector3(-2, 101, -1),"", "§aWelcome Beginner!"));
 
        $level->addParticle(new FloatingTextParticle(new Vector3(128.55, 20.10, 139.55),"", "§eYou Will Randomly Teleport"));
 

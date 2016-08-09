@@ -105,7 +105,7 @@ class Main extends PluginBase implements Listener{
 
    public function addParticle(PlayerJoinEvent $event){ 
 
-       $level = $this->getServer()->getLevelByName("ArchLobby");
+       $level = $this->getServer()->getLevelByName("Mineplex");
 
        $player = $event->getPlayer();
 
